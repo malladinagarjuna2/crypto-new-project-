@@ -1,0 +1,7 @@
+# Pinned for reproducibility. Python 3.11+.
+cryptography==50.0.2
+galois==0.4.11
+numpy==2.4.3
+matplotlib==3.10.8
+pytest==9.0.2
+argon2-cffi==25.1.0
