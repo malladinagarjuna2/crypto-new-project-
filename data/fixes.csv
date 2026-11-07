@@ -1,0 +1,6 @@
+scheme,committing,encrypt_MBps,decrypt_MBps,overhead_bytes,stated_overhead_bytes,attack_blocked,keys_opened_by_forge
+PlainGCM,0,5705.3,5932.2,0,0,no,2
+ZeroPrefix,1,5028.4,5332.6,16,16,yes,0
+HashCommit,1,4994.2,5231.0,32,32,yes,1
+CTX,1,2881.5,0.8,16,16,yes,1
+EtMKeyBound,1,1150.1,1185.0,32,32,yes,1
